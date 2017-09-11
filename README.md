@@ -1,6 +1,7 @@
 # RNLive
 
 GitHub:https://github.com/tion126/RNLive
+简书 :http://www.jianshu.com/p/e2cc066a957d
 
 没错，就是低仿~
 ![](http://upload-images.jianshu.io/upload_images/1857365-fee6703d58393b35.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -67,9 +68,7 @@ iOS
 ```
 pod install
 ```
- |
- |
-v
+
 运行
 Android
 直接运行
