@@ -1,4 +1,4 @@
-# RNLive
+# react-native低仿映客直播客户端 支持iOS/Android
 
 GitHub:https://github.com/tion126/RNLive
 简书 :http://www.jianshu.com/p/e2cc066a957d
