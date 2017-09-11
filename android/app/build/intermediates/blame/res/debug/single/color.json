@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/color/abc_primary_text_material_dark.xml"
+    }
+]

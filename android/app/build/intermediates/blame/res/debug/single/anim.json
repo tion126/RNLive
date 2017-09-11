@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/tion126/.android/build-cache/30c13940e2b27b7ab83730efa54a0ee1e7ebeaf7/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/tion126/.android/build-cache/30c13940e2b27b7ab83730efa54a0ee1e7ebeaf7/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/tion126/.android/build-cache/30c13940e2b27b7ab83730efa54a0ee1e7ebeaf7/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/tion126/.android/build-cache/30c13940e2b27b7ab83730efa54a0ee1e7ebeaf7/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/tion126/.android/build-cache/30c13940e2b27b7ab83730efa54a0ee1e7ebeaf7/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/tion126/.android/build-cache/30c13940e2b27b7ab83730efa54a0ee1e7ebeaf7/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/res/anim/abc_slide_out_top.xml"
+    }
+]

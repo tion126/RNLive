@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pldroid-player-2.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/pldroid-player-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

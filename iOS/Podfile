@@ -1,0 +1,33 @@
+
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+
+inhibit_all_warnings!
+
+target "RNLive" do
+
+pod 'Yoga',  :path => '../react-native/node_modules/react-native/ReactCommon/yoga'
+pod 'React', :path => '../react-native/node_modules/react-native', :subspecs => [
+  'Core',
+  'ART',
+  'RCTActionSheet',
+  'RCTGeolocation',
+  'RCTImage',
+  'RCTNetwork',
+  'RCTPushNotification',
+  'RCTSettings',
+  'RCTText',
+  'RCTVibration',
+  'RCTWebSocket',
+  'RCTLinkingIOS',
+  'DevSupport',
+  'RCTAnimation',
+]
+pod 'NativeComponent', :path => '../react-native/NativeComponent_iOS', :subspecs => [
+  'RCTManager',
+  'LFLiveKit',
+  'ijkplayer',
+]
+
+end
+

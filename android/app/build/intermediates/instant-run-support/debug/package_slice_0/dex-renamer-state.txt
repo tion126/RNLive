@@ -1,0 +1,4 @@
+#Sun Sep 10 23:09:19 HKT 2017
+base.0=/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

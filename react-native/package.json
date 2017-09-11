@@ -1,0 +1,30 @@
+{
+	"name": "RNLive",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"postinstall": "sed -i '' 's/#import <RCTAnimation\\/RCTValueAnimatedNode.h>/#import \"RCTValueAnimatedNode.h\"/' ./node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h",
+		"start": "node node_modules/react-native/local-cli/cli.js start",
+		"test": "jest"
+	},
+	"dependencies": {
+		"react": "16.0.0-alpha.6",
+		"react-native": "0.44.3",
+		"react-native-scrollable-tab-view": "^0.6.7",
+		"react-native-swiper": "^1.5.10",
+		"react-redux": "^5.0.6",
+		"redux": "^3.6.0",
+		"redux-logger": "^3.0.6",
+		"redux-thunk": "^2.2.0",
+		"shimo-navigation": "0.0.12"
+	},
+	"devDependencies": {
+		"babel-jest": "20.0.3",
+		"babel-preset-react-native": "2.0.0",
+		"jest": "20.0.4",
+		"react-test-renderer": "16.0.0-alpha.6"
+	},
+	"jest": {
+		"preset": "react-native"
+	}
+}

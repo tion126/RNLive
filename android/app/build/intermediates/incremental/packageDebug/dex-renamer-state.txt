@@ -1,0 +1,7 @@
+#Sun Sep 10 23:09:20 HKT 2017
+base.0=/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6af902c687c7e5b8893b15a746c872c77556c5a7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b01fb6ad37dc4417f3735cb37c0994aebb46aa49/classes.dex
+base.1=/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b01fb6ad37dc4417f3735cb37c0994aebb46aa49
+file.0=/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6af902c687c7e5b8893b15a746c872c77556c5a7/classes.dex

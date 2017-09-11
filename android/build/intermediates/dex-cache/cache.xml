@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.android/build-cache/6af19159468c85563e073fd309e331c0cfdd773a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_595cc2ae722452f75852737a581ebb862dfc4e91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/Desktop/ES/RN/RNLive/android/app/libs/pldroid-player-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b3147d4ce00e536c85d8907f7daa0d6d9f5072c1">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/2/pldroid-player-2.0.1_27f425071ad20d8a4f144210a3a59f63280f056b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_811c291c5194687b109c2ee858c55ed13295e7a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.android/build-cache/30c13940e2b27b7ab83730efa54a0ee1e7ebeaf7/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_06ac94461468db5a79d0e800d70331dbd86fd345/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.4.1_d53c7171cfdb0337242380bdc0865535ecc94ff0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.android/build-cache/60f1a5f515e677243597b382d4ec69fca7476766/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6f9e5a749351177d6479038545dc088a726e630/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_94432f6caeae7ea244b587eb4eccd8a0db2a92eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.android/build-cache/5c75127fc79a597cdd5e8b635590ab5eea0086b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de1ed4551140be3271997a7c9d44bfe0d6960f03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.android/build-cache/8f99e41c0a8dec40900af56f48f6a986010a0f44/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b1935d0ce1055c4da62f04b02157ecc46c4091c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_2b5204a7196c6a12350236cf372c724b040508e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6af902c687c7e5b8893b15a746c872c77556c5a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.android/build-cache/f798c54343225ba14d90402f3f6375f3e968400f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7326ad868e60742e0a50e19d228e1f1d8aa79c50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_98aa91ccd7629913f640496eb4f191ecb4e1733f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfa82eac49a05c31dcaeb81015181537d5bff996">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b01fb6ad37dc4417f3735cb37c0994aebb46aa49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_40dd515ac666cf39a355d9a44cb82383d93f2ecb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_cea1bd7c597ae17754008150d46c934d98c47023/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.android/build-cache/f798c54343225ba14d90402f3f6375f3e968400f/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_bf293613cbd1e510b297902557f39e355d098aea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.4.1_3a4c9a7430e0ccf62787849677bd42609a76bae0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_445d183381aa49941e87f841bf6361e3059b1e38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.android/build-cache/1ddab3cde0af8bbe71ff4b4390d8e37d77f2cc16/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f4f84a16dc89f8e5e324177d5627accd693751f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.android/build-cache/30c13940e2b27b7ab83730efa54a0ee1e7ebeaf7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6dba84d54ff3108671923bbb54f01be32cd22a07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.android/build-cache/d0daacd9b547d6ea4d964978882a4f6ecb3312ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1e250fcc4ce9dc3c52021bbde8603849753af23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.android/build-cache/128bde39480ea8ddade10723cde5df62ca9f65ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f604961e94ab924873e368dac9a46aa212b8cb64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.android/build-cache/43a71caf247bbd044df867a3e8675c6094ea4c3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de09d7960cecba31d30760c4df8dd2d354af2a92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tion126/.android/build-cache/407a7927f406362f6264be9526db45996dc5a2ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/tion126/Desktop/ES/RN/RNLive/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_333bf38be5bd3a132d0e952c401763705942fcbe/classes.dex" />
+    </item>
+
+</items>
