@@ -205,7 +205,7 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-RNLive/Pods-RNLive-resources.sh",
-				"${PODS_ROOT}/../react-native/NativeComponent_iOS/LFLiveKit/LiveKitImages.bundle",
+				"${PODS_ROOT}/../../react-native/NativeComponent_iOS/LFLiveKit/LiveKitImages.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
@@ -228,7 +228,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "#:<<COMMENT\nexport NODE_BINARY=node\n$SRCROOT/../react-native/node_modules/react-native/packager/react-native-xcode.sh\n#COMMENT";
+			shellScript = ":<<COMMENT\nexport NODE_BINARY=node\n$SRCROOT/../react-native/node_modules/react-native/packager/react-native-xcode.sh\nCOMMENT";
 		};
 		72A7B15F1F22F53D00D65747 /* Start Packager */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -259,7 +259,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */

@@ -13,6 +13,10 @@ const platformStyle = undefined;
 const LiveRCTmanager = NativeModules.LiveRCTManager;
 const LiveViewManager = NativeModules.LiveView;
 
+// iPhoneX
+const X_WIDTH = 375;
+const X_HEIGHT = 812;
+
 export default {
     platformStyle,
     android,
@@ -21,4 +25,14 @@ export default {
     deviceHeight,
     LiveRCTmanager,
     LiveViewManager,
+    isIphoneX,
 };
+
+
+function isIphoneX() {
+    return (
+        Platform.OS === 'ios' &&
+        ((deviceHeight === X_HEIGHT && deviceWidth === X_WIDTH) ||
+        (deviceHeight === X_WIDTH && deviceWidth === X_HEIGHT))
+    )
+}

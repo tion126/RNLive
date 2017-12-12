@@ -39,7 +39,7 @@ const DefaultTabBar = React.createClass({
     _renderButton(onPress, image){
 
         return (
-            <TouchableOpacity style={{width: 44, height: 44, marginTop: 20, alignItems: 'center'}} onPress={onPress}>
+            <TouchableOpacity style={{width: 44, height: 44, marginTop: constant.isIphoneX() ? 44 : 20, alignItems: 'center'}} onPress={onPress}>
                 <Image source={image} style={{width: 20, height: 20, marginTop: 14}} resizeMode={'contain'}/>
             </TouchableOpacity>
         )
@@ -94,7 +94,7 @@ const DefaultTabBar = React.createClass({
                 <ScrollView iosalwaysBounceVertical={false}
                             horizontal={true}
                             showsHorizontalScrollIndicator={false}
-                            style={{height: 64, marginLeft: 10, marginRight: 10}}
+                            style={{height: constant.isIphoneX() ? 88 : 64, marginLeft: 10, marginRight: 10}}
                             contentContainerStyle={styles.tabs}>
                     {this.props.tabs.map((name, page) => {
                         const isTabActive = this.props.activeTab === page;
@@ -114,14 +114,14 @@ const DefaultTabBar = React.createClass({
 const styles = StyleSheet.create({
     tab: {
         width:60,
-        marginTop: 20,
+        marginTop: constant.isIphoneX() ? 44 : 20,
         flex: 1,
         alignItems: 'center',
         justifyContent: 'center',
     },
     tabs: {
         backgroundColor: '#06c1ae',
-        height: 64,
+        height: constant.isIphoneX() ? 88 : 64,
         flexDirection: 'row',
         justifyContent: 'space-around'
     },

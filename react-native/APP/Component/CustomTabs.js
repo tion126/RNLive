@@ -92,6 +92,15 @@ class TabBarItem extends Component{
         let func = isLiveItem ? this._presentLiveCameraView : jumpToIndex;
         let iconWidth = isLiveItem ? 70 : 25;
         iconWidth = isLiveItem && constant.android ? 50 : iconWidth;
+        let marginBottom = 0
+
+        if (constant.isIphoneX() && isLiveItem){
+
+            marginBottom = 34;
+        }else if (constant.iOS && isLiveItem){
+
+            marginBottom = 10;
+        }
 
         const scale = this.scaleValue.interpolate({
             inputRange: [0, 0.5, 1],
@@ -110,7 +119,7 @@ class TabBarItem extends Component{
                                         width: iconWidth,
                                         height: iconWidth,
                                         resizeMode: 'stretch',
-                                        marginBottom:constant.iOS && isLiveItem ? 10 : 0,
+                                        marginBottom:marginBottom,
                                         transform: [{scale: scale}],
                                     }}
                     />
@@ -148,8 +157,7 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         justifyContent: 'space-around',
         alignItems: 'center',
-        height: 50,
-        // backgroundColor: 'transparent',
+        height: constant.isIphoneX() ? 74 : 50,
         backgroundColor: '#fff',
     },
     iconView: {
@@ -158,5 +166,6 @@ const styles = StyleSheet.create({
     iconText: {
         fontSize: 12,
         marginTop: 5,
+        marginBottom:constant.isIphoneX() ? 20 : 0,
     }
 });

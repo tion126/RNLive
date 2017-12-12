@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
-		"postinstall": "sed -i '' 's/#import <RCTAnimation\\/RCTValueAnimatedNode.h>/#import \"RCTValueAnimatedNode.h\"/' ./node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h",
+		"postinstall": "sh PackagePostinstall.sh",
 		"start": "node node_modules/react-native/local-cli/cli.js start",
 		"test": "jest"
 	},
@@ -16,6 +16,7 @@
 		"redux": "^3.6.0",
 		"redux-logger": "^3.0.6",
 		"redux-thunk": "^2.2.0",
+		"react-navigation": "1.0.0-beta.21",
 		"shimo-navigation": "0.0.12"
 	},
 	"devDependencies": {

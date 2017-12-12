@@ -177,7 +177,7 @@ class Home extends PureComponent {
         return (
             <View>
                 <Banner style={{backgroundColor: '#f9f9f9', height: 160}}
-                        sources={this.props.bannerData.ticker == null ? [] : this.props.bannerData.ticker}
+                        sources={this.props.bannerData.data == null ? [] : this.props.bannerData.data}
                         defaultSource={require('../Image/global_web_default.png')}
                         onPage={(link) => this._onBannerPage(link)}/>
             </View>
