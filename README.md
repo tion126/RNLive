@@ -74,5 +74,9 @@ Android
 直接运行
 ![](http://upload-images.jianshu.io/upload_images/1857365-a2c8c0260e5b3e18.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+最近更新:
+1.添加iPhone X的启动图。
+2.替换不能用的接口
+
 如果你喜欢我的项目/或者我的文章可以给我个star！
 
